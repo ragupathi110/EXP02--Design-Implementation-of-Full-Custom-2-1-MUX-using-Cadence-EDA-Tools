@@ -1,5 +1,6 @@
 # Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
-
+## REG NO 212222060185
+## NAME : RAGUPATHI RAJ M
 ## Aim
 
 The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
@@ -47,12 +48,18 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 
 ### 2. Schematic of Full Custom 2:1 MUX
-![Screenshot 2025-03-08 114727](https://github.com/user-attachments/assets/0080c175-c388-4bcf-9ab4-c5fe8ba5d041)
+![mux 1](https://github.com/user-attachments/assets/1c529df1-0fa8-4e84-919a-79b12d8af026)
+
+### symbol
+![mux 2](https://github.com/user-attachments/assets/3751417b-8f5b-4925-9e2f-835c06de7dea)
+
+### Schematic Diagram
+![mux 3](https://github.com/user-attachments/assets/20c24cbc-1d52-4281-ab27-2bd5e639f087)
 
 
 ### 3. Transient Response Setup
 
-*![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)*
+![mux 4](https://github.com/user-attachments/assets/deecc2fe-a8e1-4df8-8e54-337a0aef0dbb)
 
 
 ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
